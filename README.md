@@ -1,6 +1,6 @@
-# AI Resume Builder
+<!-- # CVify
 
-AI Resume Builder is a sophisticated web application that leverages artificial intelligence to help users craft professional resumes. The application features an intuitive interface and robust backend services for secure data management.
+CVify is a sophisticated web application that leverages artificial intelligence to help users craft professional resumes. The application features an intuitive interface and robust backend services for secure data management.
 
 ## 📌 Index  
 
@@ -25,7 +25,7 @@ AI Resume Builder is a sophisticated web application that leverages artificial i
 
 🔗 Watch a demonstration on [YouTube](https://youtu.be/IBdpMBvtZhU)  
 
-🌐 Live demo: [AI Resume Builder](https://main--ai-resume-builder-07.netlify.app/)  
+🌐 Live demo: [CVify](https://main--ai-resume-builder-07.netlify.app/)  
 
 ![Thumbnail](./Screenshot/Thumbnil.png)
 
@@ -191,4 +191,4 @@ The maintainers will review your PR. Once approved, it will be merged into the m
 - [@Sahid Raja Ansari](https://www.linkedin.com/in/sahidrajaansari/)
 - [@Shaharyar Alam](https://www.linkedin.com/in/shaharyar-alam-305322208/)
 
----
+--- -->
